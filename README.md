@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm [Danang](https://github.com/danangstdi/)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/danangstd_/)
-[![Discord Server](https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord&color=%7289DA)](https://discord.com/users/1041557882514194553)
+[![Discord Profile](https://img.shields.io/badge/Discord%20Profile-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1041557882514194553)
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
 
@@ -15,7 +15,7 @@ Feel free to connect with me @danangstdi for all things tech or just to say hell
 
 Joined Github **3** years ago.
 
-Since then I pushed **3175**+ commits, opened **229**+ issues, submitted **474**+ pull requests, created **20**+ gists and contributed to **5**+ public repositories.
+<!-- Since then I pushed **3175**+ commits, opened **229**+ issues, submitted **474**+ pull requests, created **20**+ gists and contributed to **5**+ public repositories. -->
 
 <!-- Like My Work?
 
@@ -53,20 +53,20 @@ Since then I pushed **3175**+ commits, opened **229**+ issues, submitted **474**
 
 ### Projects and Dev Stuffs:
 
-<details>
+<!-- <details> -->
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danangstdi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danangstdi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danangstdi&hide_border=true" />
-</details>
+<!-- </details> -->
 
 #
 
