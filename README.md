@@ -46,8 +46,6 @@ Joined Github **2** years ago.
 
 <!-- <details> -->
   <!-- <summary><b>☄️ Github Streaks</b></summary> -->
-
-  <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danangstdi&hide_border=true" />
 <!-- </details> -->
 
