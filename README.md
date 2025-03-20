@@ -11,7 +11,7 @@ I have a passion for problem-solving and pioneering first-principle thinking, dr
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Joined Github **2** years ago.
+Joined Github **3** years ago.
 
 <!-- Since then I pushed **3175**+ commits, opened **229**+ issues, submitted **474**+ pull requests, created **20**+ gists and contributed to **5**+ public repositories. -->
 
